@@ -2,7 +2,7 @@
 01-03---31-03
 
 30 Days of SQL – From Basic to Advanced Level!
-Last Updated : 06 Feb, 2021
+
 Structured Query Language or SQL is a standard database language that is used to create, maintain, destroy, update and retrieve the data from relational databases like MySQL, Oracle, SQL Server, PostgreSQL, etc.
 
 30-Days-of-SQL-From-Basic-to-Advanced-Level
