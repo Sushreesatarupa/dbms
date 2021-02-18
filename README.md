@@ -47,21 +47,25 @@ ORDER BY: This statement will order the queried data as per your convenience lik
 GROUP BY: This statement will group all your queried data with the column given in the condition.
 ALL and ANY Clause: They are logical operators in SQL and return boolean value as a result.
 TOP Clause: Used to fetch the limited number of rows from a database.
-Day 19 to Day 24:
-From Day 19 to 24, you’ll be learning and practicing the Joins in SQL. It is one of the most important concepts of SQL. 
 
-Union Clause: Just like the mathematical union operator, this clause will make the union of the tables given.
-Intersection Clause: It will join the two or more tables where they are intersecting.
-Aliases: It will give an alias to the table which we can refer to as later.
-Cartesian Join and Self Join: Sometimes to query out some data, we have to self join the table to itself.
-Inner, Left, Right and Full Joins: These four types of join comes into play when we have to join one table with another. Look upon their syntax and learn to deal with these joins.
-Division Clause: Division is typically required when you want to find out entities that are interacting with all entities of a set of different types of entities.
-Using Clause: If several columns have the same names but the datatypes do not match, the NATURAL JOIN clause can be modified with the USING clause to specify the columns that should be used for an EQUIJOIN.
-Combining values: Combining aggregate and non-aggregate values in SQL using Joins and Over clause.
-MINUS Operator: It is used as “except” which means it will join the two intersecting tables and will minus one table so that only the intersection and the other table is covered.
-Joining 3 or more tables: Although used very rarely but this will make you learn and understand how to join 3 or more tables and then carry out the querying operations.
-Day 25 to Day 30:
-Miscellaneous: 
+
+## Day 19 to Day 24:
+### Joins in SQL ( most important concepts of SQL) 
+
+1)  Union Clause: Just like the mathematical union operator, this clause will make the union of the tables given.
+2)  Intersection Clause: It will join the two or more tables where they are intersecting.
+3)  Aliases: It will give an alias to the table which we can refer to as later.
+4)  Cartesian Join and Self Join: Sometimes to query out some data, we have to self join the table to itself.
+5)  Inner, Left, Right and Full Joins: These four types of join comes into play when we have to join one table with another. Look upon their syntax and learn to deal with these joins.
+6)  Division Clause: Division is typically required when you want to find out entities that are interacting with all entities of a set of different types of entities.
+7)  Using Clause: If several columns have the same names but the datatypes do not match, the NATURAL JOIN clause can be modified with the USING clause to specify the columns that should be used for an EQUIJOIN.
+8)  Combining values: Combining aggregate and non-aggregate values in SQL using Joins and Over clause.
+9)  MINUS Operator: It is used as “except” which means it will join the two intersecting tables and will minus one table so that only the intersection and the other table is covered.
+10) Joining 3 or more tables: Although used very rarely but this will make you learn and understand how to join 3 or more tables and then carry out the querying operations.
+
+
+## Day 25 to Day 30:
+### Miscellaneous: 
 
 1)  Views
 2)  Creating Roles
