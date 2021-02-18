@@ -1,26 +1,24 @@
-# dbms
+# DBMS-SQL
 01-03---31-03
-
-30 Days of SQL – From Basic to Advanced Level!
 
 Structured Query Language or SQL is a standard database language that is used to create, maintain, destroy, update and retrieve the data from relational databases like MySQL, Oracle, SQL Server, PostgreSQL, etc.
 
-30-Days-of-SQL-From-Basic-to-Advanced-Level
+## 30-Days-of-SQL-From-Basic-to-Advanced-Level
 
 
-Day 1 to Day 6:
-Start with the basic concepts: For Day 1 to Day 6, you’ll be knowing the basic database and SQL concepts such as Creating database, SELECT Clause, etc. 
+## Day 1 to Day 6:
+### basic database and SQL concepts such as Creating database, SELECT Clause, etc. 
 
 1) Creating Database: This concept will make you learn how to create your own database.
 2) Creating Tables and adding data: From this concept, you will learn how to create tables inside the database and insert data in them.
-SELECT Clause: Retrieve or fetch data from a database.
-FROM Clause: From which table in the database you have to select data.
-WHERE Clause: It forms the condition based on which data have to be queried.
-DELETE Statement: For deletion tasks.
-INSERT INTO: For insertion tasks.
-AND and OR operator: Selecting data based on AND or operator.
-Drop and Truncate: It will drop or truncate the collection as per the condition.
-NOT Operator: It will select the data which is not based on the given condition.
+3)  SELECT Clause: Retrieve or fetch data from a database.
+4)  FROM Clause: From which table in the database you have to select data.
+5)  WHERE Clause: It forms the condition based on which data have to be queried.
+6)  DELETE Statement: For deletion tasks.
+7)  INSERT INTO: For insertion tasks.
+8)  AND and OR operator: Selecting data based on AND or operator.
+9)  Drop and Truncate: It will drop or truncate the collection as per the condition.
+10) NOT Operator: It will select the data which is not based on the given condition.
 
 
 ## Day 7 to Day 12:
