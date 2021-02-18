@@ -34,19 +34,20 @@ LIKE Clause: It will follow the pattern given on the condition for search.
 BETWEEN and IN operator:  It will select the data range between or in the given condition.
 CASE Statement: It will check for the conditionals and will query the data as per the respective case.
 EXISTS: It will form the nested query to filter out the data which exists in another query.
-Day 13 to Day 18:
-From Day 13 to Day 18, you’ll be mainly learning the Aggregate functions in SQL.
 
-DISTINCT Clause: It will select only the distinct data, not repetitive.
-Count Function: Returns the total count of the data filtered.
-Sum Function: Return the sum of all the data being queried.
-Average Function: Return the average of all the data being queried.
-Minimum Function: It will return the minimum data from the whole data that is being queried.
-Maximum Function: It will return the maximum data from the whole data that is being queried.
-ORDER BY: This statement will order the queried data as per your convenience like in ascending or descending order.
-GROUP BY: This statement will group all your queried data with the column given in the condition.
-ALL and ANY Clause: They are logical operators in SQL and return boolean value as a result.
-TOP Clause: Used to fetch the limited number of rows from a database.
+## Day 13 to Day 18:
+### Aggregate functions in SQL
+
+1)  DISTINCT Clause: It will select only the distinct data, not repetitive.
+2)  Count Function: Returns the total count of the data filtered.
+3)  Sum Function: Return the sum of all the data being queried.
+4)  Average Function: Return the average of all the data being queried.
+5)  Minimum Function: It will return the minimum data from the whole data that is being queried.
+6)  Maximum Function: It will return the maximum data from the whole data that is being queried.
+7)  ORDER BY: This statement will order the queried data as per your convenience like in ascending or descending order.
+8)  GROUP BY: This statement will group all your queried data with the column given in the condition.
+9)  ALL and ANY Clause: They are logical operators in SQL and return boolean value as a result.
+10) TOP Clause: Used to fetch the limited number of rows from a database.
 
 
 ## Day 19 to Day 24:
