@@ -21,19 +21,21 @@ INSERT INTO: For insertion tasks.
 AND and OR operator: Selecting data based on AND or operator.
 Drop and Truncate: It will drop or truncate the collection as per the condition.
 NOT Operator: It will select the data which is not based on the given condition.
-Day 7 to Day 12:
-From Day 7 to Day 12, you’ll take a step forward and learn few advanced concepts like nested queries, wildcard operators, and other clauses.
 
-WITH Clause: Understanding the concept of with clause and using it to give the sub-query block a name.
-FETCH Clause: It will fetch the filtered data based upon certain conditions like fetching only the top 3 rows.
-Arithmetic Operators: Using arithmetic operators to filter the data conveniently and precisely.
-Wildcard Operators: To intelligently select the exact data like names starting or ending with T.
-UPDATE Statement:  Updating certain data entries based upon the condition provided.
-ALTER Table: Adding, dropping, or modifying table based on the given condition.
-LIKE Clause: It will follow the pattern given on the condition for search.
-BETWEEN and IN operator:  It will select the data range between or in the given condition.
-CASE Statement: It will check for the conditionals and will query the data as per the respective case.
-EXISTS: It will form the nested query to filter out the data which exists in another query.
+
+## Day 7 to Day 12:
+### nested queries, wildcard operators, and other clauses.
+
+1)  WITH Clause: Understanding the concept of with clause and using it to give the sub-query block a name.
+2)  FETCH Clause: It will fetch the filtered data based upon certain conditions like fetching only the top 3 rows.
+3)  Arithmetic Operators: Using arithmetic operators to filter the data conveniently and precisely.
+4)  Wildcard Operators: To intelligently select the exact data like names starting or ending with T.
+5)  UPDATE Statement:  Updating certain data entries based upon the condition provided.
+6)  ALTER Table: Adding, dropping, or modifying table based on the given condition.
+7)  LIKE Clause: It will follow the pattern given on the condition for search.
+8)  BETWEEN and IN operator:  It will select the data range between or in the given condition.
+9)  CASE Statement: It will check for the conditionals and will query the data as per the respective case.
+10) EXISTS: It will form the nested query to filter out the data which exists in another query.
 
 ## Day 13 to Day 18:
 ### Aggregate functions in SQL
