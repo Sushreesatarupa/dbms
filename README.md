@@ -61,21 +61,20 @@ Combining values: Combining aggregate and non-aggregate values in SQL using Join
 MINUS Operator: It is used as “except” which means it will join the two intersecting tables and will minus one table so that only the intersection and the other table is covered.
 Joining 3 or more tables: Although used very rarely but this will make you learn and understand how to join 3 or more tables and then carry out the querying operations.
 Day 25 to Day 30:
-Miscellaneous: Since we have covered almost all the topics, we shall now move on to some of the miscellaneous topics, concepts, and functions. These are important parts of DBMS and SQL and will surely help you in your college exams and competitive exams like GATE CS. 
+Miscellaneous: 
 
-Views
-Creating Roles
-Constraints
-Transactions
-Mathematical functions
-Date functions
-Conditional Expressions
-General functions 
-String functions
-Conversion Function
-Top-N Queries
-Advanced Functions
-Practice SET
-With all the learnings, we also need practice, so here we are providing some practice question sets to improve your understanding and skill. We would be having some commonly asked interview questions be it of DBMS or SQL, subjective problems, and multiple-choice question sets.
+1)  Views
+2)  Creating Roles
+3)  Constraints
+4)  Transactions
+5)  Mathematical functions
+6)  Date functions
+7)  Conditional Expressions
+8)  General functions 
+9)  String functions
+10) Conversion Function
+11) Top-N Queries
+12) Advanced Functions
+
 
 
