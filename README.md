@@ -9,8 +9,8 @@ Structured Query Language or SQL is a standard database language that is used to
 ## Day 1 to Day 6:
 ### basic database and SQL concepts such as Creating database, SELECT Clause, etc. 
 
-1) Creating Database: This concept will make you learn how to create your own database.
-2) Creating Tables and adding data: From this concept, you will learn how to create tables inside the database and insert data in them.
+1)  Creating Database: This concept will make you learn how to create your own database.
+2)  Creating Tables and adding data: From this concept, you will learn how to create tables inside the database and insert data in them.
 3)  SELECT Clause: Retrieve or fetch data from a database.
 4)  FROM Clause: From which table in the database you have to select data.
 5)  WHERE Clause: It forms the condition based on which data have to be queried.
